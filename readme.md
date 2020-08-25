@@ -1,6 +1,6 @@
 # Frontend practice with html forms
 1. Replace `<your_account>` with your Github username in the links
-    - [DEMO LINK](https://xeilen.github.io/layout_html-form/) <br>
+    - [DEMO LINK](https://xeile.github.io/layout_html-form/) <br>
     - [TEST REPORT LINK](https://xeilen.github.io/layout_html-form/report/html_report/)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
 ___
