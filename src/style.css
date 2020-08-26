@@ -1,12 +1,12 @@
-.div-block {
+.wrapper {
   margin-bottom: 10px;
 }
 
-.fieldset-block {
+.fieldset {
   margin-bottom: 20px;
 }
 
-.fieldset-block .div-block:last-child {
+.fieldset .wrapper:last-child {
   margin-bottom: 0;
 }
 
