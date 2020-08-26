@@ -1,15 +1,15 @@
-div {
+.div-block {
   margin-bottom: 10px;
 }
 
-fieldset {
+.fieldset-block {
   margin-bottom: 20px;
 }
 
-fieldset div:last-child {
+.fieldset-block .div-block:last-child {
   margin-bottom: 0;
 }
 
-.resize input {
+.input-for-resize {
   width: 65px;
 }
